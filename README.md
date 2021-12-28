@@ -1,6 +1,12 @@
 ## Olá, chamo-me Bruno.
 ### Fique a vontade para ver o meu perfil. 👋
 
+> * 39 anos
+> * Developer em desenvolvimento
+> * Nativo do *Rio de Janeiro*
+> * Morando atualmente em São Paulo
+> * Analista de Sistemas 
+
 - 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
 
 
@@ -33,10 +39,10 @@
 
 
 ### Stats
-> <div>
+<div>
 <a href="https://github.com/brunosansp">
-[[!<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosansp&layout=compact&langs_count=7&theme=dracula"/>]]
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosansp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosansp&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosansp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/brunosansp/brunosansp/blob/output/github-contribution-grid-snake.svg)
