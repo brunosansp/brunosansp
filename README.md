@@ -4,6 +4,7 @@
 - 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
 
 
+
 ### Ferramentas e Tecnologias
 
 <div class="row">
@@ -16,6 +17,13 @@
 </div>
 
 
+<!-- 
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+ -->
+
+
 ### Contatos:
 
 <div>
@@ -23,6 +31,17 @@
 <a href="https://www.linkedin.com/in/bruno-santos-97281549/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+
+<div>
+<a href="https://github.com/brunosansp">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?brunosansp&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?brunosansp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
+  
+  
 <!--
 
 Here are some ideas to get you started:
