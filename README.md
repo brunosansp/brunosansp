@@ -1,9 +1,11 @@
 ## Olá, chamo-me Bruno.
 ### Fique a vontade para ver o meu perfil. 👋
 
+- 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
+
+
 
 <!--
-**brunosansp/brunosansp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
