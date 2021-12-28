@@ -7,7 +7,7 @@
 > * Morando atualmente em São Paulo
 > * Analista de Sistemas 
 
-- 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
+> 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
 
 
 ### Ferramentas e Tecnologias
@@ -44,9 +44,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosansp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/brunosansp/brunosansp/blob/output/github-contribution-grid-snake.svg)
-  
-  
+![Snake animation](https://github.com/brunosansp/brunosansp/blob/output/github-contribution-grid-snake.svg)  
   
   
 <!--
