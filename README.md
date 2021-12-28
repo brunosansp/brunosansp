@@ -7,11 +7,8 @@
 > * Morando atualmente em São Paulo
 > * Analista de Sistemas 
 
-````
-🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
+- 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
 
-
-````
 
 ### Ferramentas e Tecnologias
 
