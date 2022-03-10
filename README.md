@@ -4,10 +4,10 @@
 > * 39 anos
 > * Developer em desenvolvimento
 > * Nativo do *Rio de Janeiro*
-> * Morando atualmente em São Paulo
+> * Morando atualmente em *São Paulo*
 > * Analista de Sistemas 
 
-> 🔭 Atuo como DEV Jr na organização Crednovo, uma sociedade de Empréstimo entre pessoas (P2P, peer-to-peer lending). A empresa faz parte da holding J&F assim como o Banco Original e, além dos serviços estarem disponíveis na própria plataforma (https://crednovo.com.br/), atuamos junto ao parceiro PicPay.
+> 🔭 Atuo como DEV PL na organização SulAmérica.
 
 
 ### Ferramentas e Tecnologias
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="40" height="40"/>
 </div>
 
 
