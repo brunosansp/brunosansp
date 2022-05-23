@@ -1,7 +1,7 @@
 ## Olá, chamo-me Bruno.
 ### Fique a vontade para ver o meu perfil. 👋
 
-> * 39 anos
+> * 40 anos
 > * Nativo do *Rio de Janeiro*
 > * Morando atualmente em *São Paulo*
 > * Atuo como Analista de Sistemas PL na organização SulAmérica.
