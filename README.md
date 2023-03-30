@@ -4,7 +4,6 @@
 > * 40 anos
 > * Nativo do *Rio de Janeiro*
 > * Morando atualmente em *São Paulo*
-> * Atuo como Analista de Sistemas na organização BRQ junto ao cliente BTG Pactual.
 
 
 ### Ferramentas e Tecnologias
