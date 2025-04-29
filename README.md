@@ -1,7 +1,7 @@
 ## Olá, chamo-me Bruno.
 ### Fique a vontade para ver o meu perfil. 👋
 
-> * 42 anos
+> * 43 anos
 > * Nativo do *Rio de Janeiro*
 > * Morando atualmente em *São Paulo*
 
